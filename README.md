@@ -27,7 +27,7 @@ Let's code together and make the web a better place! 🚀
 
 ## Get in Touch
 
-- Email: [my-email@example.com](mailto:ummkhaladoluwatosin@example.com)
+- Email: [my-email](mailto:ummkhaladoluwatosin@example.com)
 - LinkedIn: [LinkedIn Profile](www.linkedin.com/in/ummkhalad-oluwatosin-737b8a253)
 
 Feel free to drop me a message anytime. I'm looking forward to connecting with you! 😊
