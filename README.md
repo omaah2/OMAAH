@@ -21,13 +21,13 @@ Hi there! 👋 I'm Omaah2, a frontend developer passionate about creating beauti
 
 ## Let's Collaborate!
 
-I'm open to collaborating on exciting web development projects, whether it's building a new web app, improving an existing one, or contributing to open source initiatives. If you'd like to work together or discuss a potential project, feel free to reach out to me via email at (mailto:ummkhaladoluwatosin@example.com) or connect with me on [LinkedIn](www.linkedin.com/in/ummkhalad-oluwatosin-737b8a253).
+I'm open to collaborating on exciting web development projects, whether it's building a new web app, improving an existing one, or contributing to open source initiatives. If you'd like to work together or discuss a potential project, feel free to reach out to me via email at [Email](mailto:ummkhaladoluwatosin@example.com) or connect with me on [LinkedIn](www.linkedin.com/in/ummkhalad-oluwatosin-737b8a253).
 
 Let's code together and make the web a better place! 🚀
 
 ## Get in Touch
 
-- Email: [my-email](mailto:ummkhaladoluwatosin@example.com)
+- Email: [email](mailto:ummkhaladoluwatosin@example.com)
 - LinkedIn: [LinkedIn Profile](www.linkedin.com/in/ummkhalad-oluwatosin-737b8a253)
 
 Feel free to drop me a message anytime. I'm looking forward to connecting with you! 😊
