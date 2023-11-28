@@ -1,11 +1,11 @@
 # Omaah2 - Frontend Developer
 
-Hi there! 👋 I'm Omaah2, a frontend developer passionate about creating beautiful and user-friendly web applications. I'm currently focused on learning and mastering React, but I'm always eager to expand my skills and collaborate on exciting projects. I'm also enthusiastic about contributing to open source initiatives and making a positive impact on the developer community.
+Hi there! 👋 I'm Omaah2, a frontend developer passionate about creating beautiful and user-friendly web applications. I'm currently focused on learning and mastering Vue, but I'm always eager to expand my skills and collaborate on exciting projects. I'm also enthusiastic about contributing to open source initiatives and making a positive impact on the developer community.
 
 ## About Me
 
 - 🌟 Frontend Developer
-- 🚀 Currently learning React
+- 🚀 Currently learning vue
 - 💡 Passionate about creating delightful user experiences
 - 💬 Open to collaboration and networking
 - 🌐 Always seeking opportunities to contribute to open source projects
@@ -14,6 +14,7 @@ Hi there! 👋 I'm Omaah2, a frontend developer passionate about creating beauti
 
 - HTML, CSS, JavaScript,Typescript
 - React
+- Vue
 - Responsive Web Design
 - Version Control (Git)
 
